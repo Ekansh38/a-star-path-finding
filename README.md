@@ -60,7 +60,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Ekansh - [Twitter or X](https://x.com/mister_byte_) - [YouTube Channel](https://www.youtube.com/@mister_byte_) - goenka.ekansh@gmail.com
+ekansh@ekanshgoenka.com
 
 ## Acknowledgments
 
